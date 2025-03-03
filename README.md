@@ -1,4 +1,5 @@
 # 🖥️ Network Monitoring App
+<img width="1690" alt="image" src="https://github.com/user-attachments/assets/fad59b76-341c-433a-aad3-54a05e875264" />
 
 ## 📌 Descrição
 Este projeto é um sistema de monitoramento de dispositivos em uma rede local. Ele coleta informações de uso de CPU, memória e disco de cada cliente e exibe os dados em um dashboard dinâmico utilizando a biblioteca `rich`.
